@@ -1,0 +1,25 @@
+{
+  "name": "vx-sim-server",
+  "version": "0.0.1",
+  "description": "Simulation VX Engine Server designed for non intrusive unti/browser testing",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pwbrown/vx-sim-server.git"
+  },
+  "author": "Philip Brown",
+  "license": "GNUPL",
+  "bugs": {
+    "url": "https://github.com/pwbrown/vx-sim-server/issues"
+  },
+  "homepage": "https://github.com/pwbrown/vx-sim-server#readme",
+  "dependencies": {
+    "random-seed": "^0.3.0"
+  }
+}
