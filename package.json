@@ -1,6 +1,6 @@
 {
   "name": "vx-sim-server",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "Simulation VX Engine Server designed for non intrusive unti/browser testing",
   "main": "index.js",
   "directories": {
